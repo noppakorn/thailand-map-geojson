@@ -24,4 +24,5 @@ For example : `python convert_shp_to_geojson.py shape 2`
 > 2 -> District\
 > 3 -> Subdistrict (Not Implemented)
 ## Data Source
-- [The Humanitarian Data Exchange](https://data.humdata.org/dataset/thailand-administrative-boundaries)
+- [The Humanitarian Data Exchange](https://data.humdata.org/dataset/thailand-administrative-boundaries).
+  License : [Creative Commons Attribution for Intergovernmental Organisations](https://data.humdata.org/about/license)
