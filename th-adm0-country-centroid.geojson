@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 106.63586225100001, "Shape_Area": 43.403507573600002, "ADM0_EN": "Thailand", "ADM0_TH": "ประเทศไทย", "ADM0_PCODE": "TH", "ADM0_REF": null, "ADM0ALT1EN": null, "ADM0ALT2EN": null, "ADM0ALT1TH": null, "ADM0ALT2TH": null, "date": "2019-02-18", "validOn": "2019-02-21", "validTo": null }, "geometry": { "type": "Point", "coordinates": [ 101.011367538579307, 15.104114727228342 ] } }
+]
+}

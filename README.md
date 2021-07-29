@@ -12,7 +12,8 @@
 ## Building the map
 1. Install Requirements `pip install -r requirements.txt`
 2. Download the shp file `python download_thailand_map.py`
-3. Build the map with `python convert_shp_to_geojson.py [MODE] [ADM LEVEL]`, Example : `python convert_shp_to_geojson.py shape 2`
+3. Build the map with `python convert_shp_to_geojson.py [MODE] [ADM LEVEL]`,
+For example : `python convert_shp_to_geojson.py shape 2`
 ## Parameters Details
 - MODE : centroid, shape
 - ADM LEVEL : 1,2,3
